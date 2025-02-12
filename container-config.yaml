@@ -1,3 +1,4 @@
+# config
 name: kmss-ssh-container
 baseImage: "rastasheep/ubuntu-sshd:latest"
 cpu: "200m"
