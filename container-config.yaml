@@ -1,0 +1,7 @@
+name: kmss-ssh-container
+baseImage: "rastasheep/ubuntu-sshd:latest"
+cpu: "200m"
+memory: "256Mi"
+repoUrl: "https://github.com/kumarmapanip/microservice-app.git"
+sshPort: 22
+namespace: default
